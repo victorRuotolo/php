@@ -1,7 +1,7 @@
 <?php
 
 echo "Hello World<br>";
-echo "Teste de commit";
+echo "Teste de conflito";
 
 
 
